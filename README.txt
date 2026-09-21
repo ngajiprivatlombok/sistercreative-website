@@ -13,3 +13,4 @@ Catatan:
 - Nomor WhatsApp yang dipasang: 0857-3708-6612.
 - Jalur /admin tidak dibuat di paket ini karena akan diarahkan melalui Cloudflare Worker ke n8n.
 - Edit tulisan di index.html, desain di style.css, dan interaksi di script.js.
+- Oke semangat
